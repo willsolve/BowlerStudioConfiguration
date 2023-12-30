@@ -1,5 +1,29 @@
 {
+  "workspace": {
+    "https://github.com/willsolve/javaCad_willsolve.git": [
+      "https://github.com/willsolve/javaCad_willsolve.git",
+      "1703939180049"
+    ]
+  },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "dyio",
+    "robotName": "CarlTheWalkingRobot",
+    "robotGitFile": "CarlTheRobot.xml",
+    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
+  },
+  "studio-open-git": {
+    "https://github.com/willsolve/javaCad_willsolve.git:javaCad.groovy": [
+      "https://github.com/willsolve/javaCad_willsolve.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
