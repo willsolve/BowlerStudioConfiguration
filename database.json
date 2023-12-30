@@ -33,12 +33,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/willsolve/helloWorld_willsolve.git:helloWorld.groovy": [
-      "https://github.com/willsolve/helloWorld_willsolve.git",
-      "helloWorld.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
