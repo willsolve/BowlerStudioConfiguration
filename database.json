@@ -18,12 +18,10 @@
     "robotGitFile": "CarlTheRobot.xml",
     "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
   },
-  "studio-open-git": {
-    "https://github.com/willsolve/javaCad_willsolve.git:javaCad.groovy": [
-      "https://github.com/willsolve/javaCad_willsolve.git",
-      "javaCad.groovy"
-    ]
+  "MenueSettings": {
+    "printCSG": true
   },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
