@@ -26,9 +26,9 @@
       "Dragon"
     ],
     "linkDeviceName": "dyio",
-    "robotName": "CarlTheWalkingRobot",
-    "robotGitFile": "CarlTheRobot.xml",
-    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
+    "robotName": "DogRobot",
+    "robotGitFile": "DogRobot.xml",
+    "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
   },
   "MenueSettings": {
     "printCSG": true
